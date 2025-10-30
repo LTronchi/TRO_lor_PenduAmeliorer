@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42C9-E5A2-497C-BF94-7D06DAB3D216}|Pendu\\Pendu.vcxproj|C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFEE42C9-E5A2-497C-BF94-7D06DAB3D216}|Pendu\\Pendu.vcxproj|solutionrelative:Pendu\\Pendu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42C9-E5A2-497C-BF94-7D06DAB3D216}|Pendu\\Pendu.vcxproj|C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFEE42C9-E5A2-497C-BF94-7D06DAB3D216}|Pendu\\Pendu.vcxproj|solutionrelative:Pendu\\Pendu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pendu.c",
+              "DocumentMoniker": "C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.c",
+              "RelativeDocumentMoniker": "Pendu\\Pendu.c",
+              "ToolTip": "C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.c",
+              "RelativeToolTip": "Pendu\\Pendu.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAnwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T18:47:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pendu.cpp",
+              "DocumentMoniker": "C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.cpp",
+              "RelativeDocumentMoniker": "Pendu\\Pendu.cpp",
+              "ToolTip": "C:\\Users\\Loren\\Desktop\\Gaming Campus\\Prepa\\GTECH\\Pendu 2\\TRO_lor_PenduAmeliorer\\Pendu\\Pendu\\Pendu.cpp",
+              "RelativeToolTip": "Pendu\\Pendu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T18:47:00.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

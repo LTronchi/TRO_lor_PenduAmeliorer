@@ -1,0 +1,11 @@
+﻿  Pendu.c
+C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Pendu 2\TRO_lor_PenduAmeliorer\Pendu\Pendu\Pendu.c(69,17): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+      C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Pendu 2\TRO_lor_PenduAmeliorer\Pendu\Pendu\Pendu.c(69,17):
+      les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+      C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Pendu 2\TRO_lor_PenduAmeliorer\Pendu\Pendu\Pendu.c(69,17):
+      l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+      C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Pendu 2\TRO_lor_PenduAmeliorer\Pendu\Pendu\Pendu.c(69,17):
+      cet argument est utilisé comme taille de mémoire tampon
+  
+x64\Debug\Pendu.obj : warning LNK4042: objet spécifié plus d'une fois ; définitions supplémentaires ignorées
+  Pendu.vcxproj -> C:\Users\Loren\Desktop\Gaming Campus\Prepa\GTECH\Pendu 2\TRO_lor_PenduAmeliorer\Pendu\x64\Debug\Pendu.exe
